@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magalyzevallosi-bit.github.io/tiendita-mente-en-calma-web/sitemap.xml

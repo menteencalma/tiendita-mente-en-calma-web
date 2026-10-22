@@ -1,3 +1,3 @@
-# Tiendita Mente en Calma — sitio publicado
+# Tiendita Mente en Calma — publicación pendiente
 
-Este repositorio contiene únicamente la versión compilada que se muestra en GitHub Pages. El código fuente se mantiene en un repositorio privado separado. Las guías PDF completas no forman parte del sitio.
+Este repositorio público está reservado para la versión compilada de la tienda en GitHub Pages. La tienda aún no se ha publicado aquí. El código fuente se mantiene en un repositorio privado separado y los PDF completos no se incluirán.
